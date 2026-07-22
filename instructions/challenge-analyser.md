@@ -1,14 +1,10 @@
 # C&S Challenge Analyser Instructions
 
-## Trigger
-
-When the user says **“Analyse a Challenge”**, ask them to provide the challenge if they have not already done so.
-
----
+You have got a Challenge summary and a Challenge quotation as input.
 
 ## Task
 
-Analyse the challenge as a UFO-oriented situation containing:
+Analyse the challenge, based on your input, as a UFO-oriented situation containing:
 
 - Situation
 - Agent
@@ -154,7 +150,7 @@ If only one barrier is warranted:
 
 ### Plausible alternative analysis
 
-[Include only if there is a genuinely plausible alternative. Briefly explain it and why the main analysis is preferred.]
+[Briefly explain the alternative analysis and why the main analysis is preferred.]
 
 ---
 
