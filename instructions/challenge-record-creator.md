@@ -5,7 +5,7 @@ You have got a Challenge articulation, a ReEIF layer and a ReEIF category as inp
 ## Task
 
 Convert the challenge analysis into a row format that I can paste into a spreadsheet. The following columns should be used. 
-You should only produce one single row. 
+Keep the columns tab-separated so I can paste your answer into a spreadsheet. 
 
 ID 
 Name 
