@@ -15,6 +15,7 @@ Actor
 Goal 
 Plan 
 Barriers 
-Other Constituents 
+Other Constituents
+Blocking Conditions
 Situation 
 Mechanism
