@@ -52,5 +52,5 @@ Justification of category
 Confidence level
 
 
-Finally, I want you to map the solutions to the challenges and explain why a solution can address a challenge.
+Finally, I want you to explain why the solution can address the challenge.
 
