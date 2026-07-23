@@ -32,15 +32,23 @@ Furthermore, I want you to specify how certain you are about your matching.
 For each challenge, follow this structure:
 
 Name of challenge
+
 Description of challenge
+
 Challenge category 
+
 Justification of category
+
 Confidence level
 
 Name of solution
+
 Description of solution
+
 Solution category 
+
 Justification of category
+
 Confidence level
 
 
