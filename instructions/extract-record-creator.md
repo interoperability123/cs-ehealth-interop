@@ -16,6 +16,8 @@ Your task is to convert the extraction text into table format.
 
 Format your answer as one single table with nine columns. The answer should be tab-separated so I can paste it into a spreadsheet.
 
+For columns 1, 2, 5, 6, and 9, you should be detailed and not short.
+
 The first column should be labelled "Challenge Description" and contain a description of a challenge. 
 
 The second column should be labelled “Challenge Quotation” and contain a quotation from the paper providing evidence for the challenge. 
