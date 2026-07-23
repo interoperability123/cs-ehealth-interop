@@ -42,7 +42,7 @@ Respect UFO notions as defined in your knowledge base. Use the following distinc
 
 ## Output structure
 
-Any solution can be seen as a change of the situation, a change of the plan description, a change of the goal or a combination of these. Reflect on how the proposed solution can be viewed in this way. 
+Any solution can be seen as a change of the situation, a change of the plan description, a change of the goal or a combination of these. Reflect on how the proposed solution can be viewed in this way. Use Markdown to format your answer.
 
 Start with a short, accessible description in plain language.
 
