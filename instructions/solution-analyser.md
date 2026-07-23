@@ -50,15 +50,22 @@ Then write:
 ### Change of situation 
 [describe added constituents of the situation, removed constituents, modified constituents, and substituted constituents]
 When identifying removed, modified or substituted constituents, you are only allowed to refer to constituents that are explicitly mentioned in the original situation
+
 For each constituent, specify: substantial, relator, mode, or quality. Include the bearer if it is a quality or mode. If another UFO category is clearly needed, use it precisely.
+
 Provide output as a bullet list with constituents as items.
+
 An example is: 
+
 finger: substantial
+
 finger strength: quality of finger
 
 ### Change of plan description 
 [describe how the plan description is changed]
 Provide output as a bullet list with the changes as items
+
+Make sure that you have used Markdown to format your answer. 
 
 ### Solution mechanism
 Then, explain why the solution will address the challenge (as expressed by the challenge articulation), i.e. the mechanism by which the solution addresses the challenge.
