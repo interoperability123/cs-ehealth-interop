@@ -148,6 +148,21 @@ If only one barrier is warranted:
 
 [Briefly explain the causal pathway. If two barriers are present, explain how the upstream barrier produces, sustains, or aggravates the downstream barrier, and how the downstream barrier blocks the goal.]
 
+### Summary
+
+Write one coherent paragraph summarising the challenge of approximately 80–120 words, usually in four to six sentences. Develop the explanation in a natural sequence:
+1. Introduce the person, team or organisation involved and the situation they face.
+2. Explain what they are trying to accomplish and, if helpful, how they expect to proceed.
+3. Describe the event, condition or uncertainty that creates the difficulty.
+4. Explain in concrete terms how this difficulty interferes with their activity.
+5. End with its practical effect: what becomes harder, delayed, uncertain or impossible.
+
+Use the Actor, Goal, Plan, Situation, Barriers, Blocking Conditions, Mechanism and Mechanism Raw fields to establish these points. Treat the fields as overlapping evidence to be combined into a clear account, rather than as headings to reproduce. In particular, translate a barrier such as “consent coverage” into the problematic condition described by the row, such as uncertainty about whether consent covers a changed procedure. Use Constituents only when they help identify relevant people, systems or objects. Prefer Mechanism for the explanation of how the difficulty works, consulting Mechanism Raw when needed.
+
+Use plain, precise language and give the reader enough context to understand why the obstacle matters. Avoid ontological terms, unexplained technical labels, repetition and compressed formulations that require the reader to infer the connection between events. Preserve qualifications and uncertainty; do not add unsupported facts, stronger claims, proposed solutions or recommendations. If a detail is missing, write around it rather than inventing it.
+
+Return only the paragraph.
+
 ### Plausible alternative analysis
 
 [Briefly explain the alternative analysis and why the main analysis is preferred.]
